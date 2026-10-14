@@ -1,0 +1,49 @@
+[
+  {
+    "id": "promo-welcome-10",
+    "code": "WELCOME10",
+    "title": "Welcome 10% Off First Pair",
+    "description": "Enjoy 10% off your footwear order upon joining the SOLEFORM collective.",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderINR": 1500,
+    "maxDiscountINR": 1000,
+    "usageLimit": 500,
+    "usageCount": 42,
+    "status": "active",
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-10-13T12:00:00.000Z"
+  },
+  {
+    "id": "promo-sole-500",
+    "code": "SOLE500",
+    "title": "Festival Privilege ₹500 Voucher",
+    "description": "Flat ₹500 off on premium styles for purchases exceeding ₹3,000.",
+    "discountType": "fixed_amount",
+    "discountValue": 500,
+    "minOrderINR": 3000,
+    "maxDiscountINR": 500,
+    "usageLimit": 200,
+    "usageCount": 19,
+    "status": "active",
+    "startDate": "2026-09-01T00:00:00.000Z",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "updatedAt": "2026-10-13T12:00:00.000Z"
+  },
+  {
+    "id": "promo-free-ship",
+    "code": "FREESHIP",
+    "title": "Complimentary Express Air Delivery",
+    "description": "Unlocks zero-cost priority express air delivery on any footwear order.",
+    "discountType": "free_shipping",
+    "discountValue": 150,
+    "minOrderINR": 0,
+    "usageLimit": 1000,
+    "usageCount": 88,
+    "status": "active",
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-10-13T12:00:00.000Z"
+  }
+]

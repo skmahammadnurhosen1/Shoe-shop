@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin-primary-01",
+    "email": "admin@soleform.com",
+    "name": "SOLEFORM Head Administrator",
+    "role": "superadmin",
+    "salt": "005aad0e535527c1c3d382f41683b1a4",
+    "passwordHash": "06206b367fd1d16472f47e2c6ebd26c14c8378639a3bd179a3557e0b0fc472d918dbda5094adbb8dce191f671d58006ef98cb6d621d6ba2c61bba01266635f5a",
+    "createdAt": "2026-10-13T14:48:06.080Z",
+    "lastLoginAt": "2026-10-13T17:55:17.025Z"
+  },
+  {
+    "id": "admin-ops-02",
+    "email": "ops@soleform.com",
+    "name": "SOLEFORM Operations Administrator",
+    "role": "superadmin",
+    "salt": "a58766a44ae24e3787f183e640565c7b",
+    "passwordHash": "df91d460b89bb3b99c7033452590f1e87a074beeda23f78debef2f798dfa49b14e256fb7dbc051c6a37c3b94056d693e6029429d392972d3bdf6c956c190be3d",
+    "createdAt": "2026-10-13T18:22:00.000Z",
+    "lastLoginAt": "2026-10-14T04:35:44.975Z"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "rev-101",
+    "productId": "sole-apex-01",
+    "productName": "Apex Horizon Runner",
+    "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=800",
+    "userName": "Kabir Sharma",
+    "userEmail": "kabir.s@example.com",
+    "rating": 5,
+    "title": "Impeccable cushioning and premium construction",
+    "comment": "The Apex Horizon Runner exceeded my expectations. The dual-density foam gives incredible shock absorption during long urban walks, and the stitching is flawess.",
+    "fitRating": "True to Size",
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "isVerifiedBuyer": true,
+    "status": "approved",
+    "isFeaturedOnHomepage": true,
+    "officialReply": {
+      "adminName": "SOLEFORM Head Administrator",
+      "comment": "Thank you Kabir! We designed the Apex Horizon Runner specifically for prolonged urban mobility.",
+      "createdAt": "2026-09-18T10:30:00.000Z"
+    },
+    "createdAt": "2026-09-15T14:20:00.000Z"
+  },
+  {
+    "id": "rev-102",
+    "productId": "sole-apex-01",
+    "productName": "Apex Horizon Runner",
+    "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=800",
+    "userName": "Ananya Roy",
+    "userEmail": "ananya.r@example.com",
+    "rating": 5,
+    "title": "Ultra light on feet, stylish silhouette",
+    "comment": "Looks stunning with cropped trousers or activewear. Lightweight and breathable even in humid Mumbai heat. Ordering a second colorway!",
+    "fitRating": "True to Size",
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&q=80&w=800"
+    ],
+    "isVerifiedBuyer": true,
+    "status": "approved",
+    "isFeaturedOnHomepage": true,
+    "createdAt": "2026-09-22T11:15:00.000Z"
+  },
+  {
+    "id": "rev-103",
+    "productId": "sole-nomad-02",
+    "productName": "Nomad Suede Slip-On",
+    "productImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&q=80&w=800",
+    "userName": "Rohan Malhotra",
+    "userEmail": "rohan.m@example.com",
+    "rating": 4,
+    "title": "Supple suede, order half a size up for wider feet",
+    "comment": "The suede quality is top-tier. It snugged a bit on day 1 but relaxed into a perfect custom glove fit by day 3.",
+    "fitRating": "Runs Small",
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&q=80&w=800"
+    ],
+    "isVerifiedBuyer": true,
+    "status": "approved",
+    "isFeaturedOnHomepage": true,
+    "officialReply": {
+      "adminName": "SOLEFORM Concierge",
+      "comment": "Great insight Rohan! Natural unlined suede stretches slightly to mold around the foot contour after initial wear.",
+      "createdAt": "2026-10-02T09:10:00.000Z"
+    },
+    "createdAt": "2026-09-30T16:45:00.000Z"
+  },
+  {
+    "id": "rev-104",
+    "productId": "sole-vanguard-03",
+    "productName": "Vanguard High-Top Trainer",
+    "productImage": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&q=80&w=800",
+    "userName": "Meera Iyer",
+    "userEmail": "meera.i@example.com",
+    "rating": 5,
+    "title": "Architectural masterpiece!",
+    "comment": "The high-top ankle collar provides incredible support without rubbing. Very high quality leather and heel cup.",
+    "fitRating": "True to Size",
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&q=80&w=800"
+    ],
+    "isVerifiedBuyer": true,
+    "status": "approved",
+    "isFeaturedOnHomepage": true,
+    "createdAt": "2026-10-05T18:00:00.000Z"
+  },
+  {
+    "id": "rev-105",
+    "productId": "sole-apex-01",
+    "productName": "Apex Horizon Runner",
+    "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=800",
+    "userName": "Vikram Sethi",
+    "userEmail": "vikram.s@example.com",
+    "rating": 5,
+    "title": "Fast dispatch and luxury unboxing experience",
+    "comment": "Arrived in 2 business days in Bangalore via express delivery. The travel dust bags and shoe horn inside the box were an amazing touch.",
+    "fitRating": "True to Size",
+    "photoUrls": [],
+    "isVerifiedBuyer": true,
+    "status": "approved",
+    "isFeaturedOnHomepage": false,
+    "createdAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "rev-106",
+    "productId": "sole-nomad-02",
+    "productName": "Nomad Suede Slip-On",
+    "productImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&q=80&w=800",
+    "userName": "Devika Verma",
+    "userEmail": "devika.v@example.com",
+    "rating": 5,
+    "title": "Effortless luxury slip-ons",
+    "comment": "Perfect for airport travel and quick weekend coffee runs. Very comfortable insoles with memory foam support.",
+    "fitRating": "True to Size",
+    "photoUrls": [],
+    "isVerifiedBuyer": true,
+    "status": "pending",
+    "isFeaturedOnHomepage": false,
+    "createdAt": "2026-10-13T09:30:00.000Z"
+  }
+]

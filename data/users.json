@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-demo-1",
+    "name": "Alex Mercer",
+    "email": "member@soleform.com",
+    "salt": "7d34194d1563bf7e56005ddb4d981aa7",
+    "passwordHash": "0a8801e75be8ae4a5ec4f76c780d8004e181851064524cca6780bdb5beac5f16375b4873688bff2094be0ef61b5e5c7191fd607f683ec8155210a5d4715e2882",
+    "createdAt": "2026-10-13T03:12:13.610Z",
+    "phone": "+91 98765 43210",
+    "preferredContact": "both"
+  },
+  {
+    "id": "usr-0cb96c57-b479-4377-a347-7197aebb3885",
+    "name": "Test User",
+    "email": "test@example.com",
+    "salt": "d3136bc1ffa2daf14e4d66dbaff82975",
+    "passwordHash": "be009ca1fbbc0c240f6613179381aa85e54de9c9bd389cd57113b58a71a77428552d655e1f870f21b2f49d7cfa1ec8dac4b38b163fd83872f79a3b0954a78644",
+    "createdAt": "2026-10-13T03:12:19.249Z"
+  }
+]

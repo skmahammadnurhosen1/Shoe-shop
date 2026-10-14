@@ -1,0 +1,14 @@
+{
+  "shippingFeeINR": 150,
+  "freeShippingThresholdINR": 1999,
+  "gstRatePercent": 18,
+  "gstIncludedInPrice": true,
+  "taxIdNumber": "27AAACS00001Z5",
+  "whatsAppConciergeNumber": "+919134280545",
+  "whatsAppDefaultMessage": "Hello SOLEFORM team, I would like assistance with footwear sizing and availability.",
+  "supportEmail": "concierge@soleform.in",
+  "storeAddress": "SOLEFORM Flagship Atelier, Bandra West, Mumbai, Maharashtra 400050",
+  "currencySymbol": "₹",
+  "currencyCode": "INR",
+  "updatedAt": "2026-10-14T00:00:00.000Z"
+}

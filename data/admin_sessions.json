@@ -1,0 +1,65 @@
+[
+  {
+    "token": "dde4c26fb66de56988d1f95ae9c666de3dd64130400b8e68ef2a64775099fd3f",
+    "adminId": "admin-demo-01",
+    "email": "demo.admin@soleform.com",
+    "createdAt": "2026-10-13T15:11:35.785Z",
+    "expiresAt": "2026-10-14T15:11:35.729Z"
+  },
+  {
+    "token": "413dd8b093a9b3a2cc4cdda8ad696cd7841cee8fffc9a333dad25341a7eab368",
+    "adminId": "admin-demo-01",
+    "email": "demo.admin@soleform.com",
+    "createdAt": "2026-10-13T15:12:23.589Z",
+    "expiresAt": "2026-10-14T15:12:23.517Z"
+  },
+  {
+    "token": "f8b28f112d69f89c178cd095772ab7896daccf1b7825dd23f96bffe222c49fde",
+    "adminId": "admin-primary-01",
+    "email": "admin@soleform.com",
+    "createdAt": "2026-10-13T15:12:27.936Z",
+    "expiresAt": "2026-10-14T15:12:27.881Z"
+  },
+  {
+    "token": "b561e17a3a8771befdfd47f0edee1efb1a3af00a772a2c4e2e204b92138e43f1",
+    "adminId": "admin-primary-01",
+    "email": "admin@soleform.com",
+    "createdAt": "2026-10-13T16:47:20.884Z",
+    "expiresAt": "2026-10-14T16:47:20.814Z"
+  },
+  {
+    "token": "3ae0a56b3e26407cd6ba57143f38b1c39f121d6e629f06f015b3cbb9671e3a5c",
+    "adminId": "admin-primary-01",
+    "email": "admin@soleform.com",
+    "createdAt": "2026-10-13T17:26:47.674Z",
+    "expiresAt": "2026-10-14T17:26:47.606Z"
+  },
+  {
+    "token": "64f86f3a7fa83332b20f64f169522b678bbe26adc028e1ee54a3fab36ca12b5b",
+    "adminId": "admin-primary-01",
+    "email": "admin@soleform.com",
+    "createdAt": "2026-10-13T17:55:17.025Z",
+    "expiresAt": "2026-10-14T17:55:16.962Z"
+  },
+  {
+    "token": "92984d835813495d4ada470d9f4183c0189449c03f794eff383b746ab5c30159",
+    "adminId": "admin-ops-02",
+    "email": "ops@soleform.com",
+    "createdAt": "2026-10-13T18:23:25.473Z",
+    "expiresAt": "2026-10-14T18:23:25.411Z"
+  },
+  {
+    "token": "f92e7462a083823552c5780ddd683c56c330fab57a290762edf49f081751559d",
+    "adminId": "admin-ops-02",
+    "email": "ops@soleform.com",
+    "createdAt": "2026-10-13T18:23:56.526Z",
+    "expiresAt": "2026-10-14T18:23:56.466Z"
+  },
+  {
+    "token": "f905566908bf7d120b2a1d31749f5d010379c5f6bdb1de31b92133073f4dfc64",
+    "adminId": "admin-ops-02",
+    "email": "ops@soleform.com",
+    "createdAt": "2026-10-14T04:35:44.974Z",
+    "expiresAt": "2026-10-15T04:35:44.929Z"
+  }
+]

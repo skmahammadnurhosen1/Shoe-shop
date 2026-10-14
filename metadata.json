@@ -1,0 +1,6 @@
+{
+  "name": "SOLEFORM - Considered Everyday Footwear",
+  "description": "Premium footwear e-commerce store offering thoughtfully selected, versatile shoes for modern everyday movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

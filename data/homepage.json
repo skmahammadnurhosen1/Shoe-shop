@@ -1,0 +1,68 @@
+{
+  "announcementBar": {
+    "enabled": true,
+    "text": "COMPLIMENTARY PRIORITY EXPRESS AIR SHIPPING ON ORDERS OVER ₹1,999 · FREE RETURNS & SIZE EXCHANGES",
+    "link": "all"
+  },
+  "heroSlides": [
+    {
+      "id": "hero-slide-1",
+      "badge": "2026 EDITORIAL EDITION",
+      "headline": "CONSIDERED EVERYDAY FOOTWEAR",
+      "subtitle": "Architectural silhouettes crafted in full-grain calfskin and lightweight dual-density foam for modern urban movement.",
+      "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&q=80&w=1600",
+      "ctaText": "EXPLORE NEW ARRIVALS",
+      "ctaLink": "New Arrivals",
+      "status": "active",
+      "displayOrder": 1
+    },
+    {
+      "id": "hero-slide-2",
+      "badge": "URBAN PERFORMANCE",
+      "headline": "THE APEX HORIZON RUNNER",
+      "subtitle": "Lightweight breathable mesh upper, heel stabilizers, and responsive energetic rebound.",
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=1600",
+      "ctaText": "SHOP RUNNING SERIES",
+      "ctaLink": "Men's Sneakers",
+      "status": "active",
+      "displayOrder": 2
+    },
+    {
+      "id": "hero-slide-3",
+      "badge": "RESTOCK privileges",
+      "headline": "NOMAD SUEDE SLIP-ONS",
+      "subtitle": "Hand-stitched unlined suede uppers with cork memory insoles for instant cloud-like comfort.",
+      "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&q=80&w=1600",
+      "ctaText": "SHOP NOMAD COLLECTION",
+      "ctaLink": "Men's Casual",
+      "status": "active",
+      "displayOrder": 3
+    }
+  ],
+  "lookbookCards": [
+    {
+      "id": "lookbook-1",
+      "tag": "CHAPTER 01",
+      "headline": "Architectural Soles & Modern Form",
+      "description": "Explorations into sculpted dual-density outsoles, hand-finished full-grain leather uppers, and ergonomic heel geometry designed for non-stop city navigation.",
+      "imageUrl": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&q=80&w=1000",
+      "displayOrder": 1
+    },
+    {
+      "id": "lookbook-2",
+      "tag": "CHAPTER 02",
+      "headline": "Natural Tones & Textural Contrast",
+      "description": "Juxtaposing buttery suede textures with matte olive rubber trims, muted sand tone palettes, and off-white midsoles that patina gracefully with age.",
+      "imageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&q=80&w=1000",
+      "displayOrder": 2
+    },
+    {
+      "id": "lookbook-3",
+      "tag": "CHAPTER 03",
+      "headline": "The All-Day Urban Transit Series",
+      "description": "Tested across 15,000 daily steps in Mumbai and Bangalore. High-density shock absorption meets effortless slip-on versatility.",
+      "imageUrl": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&q=80&w=1000",
+      "displayOrder": 3
+    }
+  ]
+}

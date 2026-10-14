@@ -1,0 +1,255 @@
+[
+  {
+    "orderId": "SF-WA-9042",
+    "customerName": "Pooja Varma",
+    "email": "pooja.varma@gmail.com",
+    "phone": "+91 98840 21980",
+    "address": "402, Lotus Tower, Indiranagar 100ft Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "paymentMethod": "Direct Bank Transfer / WhatsApp",
+    "source": "WhatsApp Order",
+    "items": [
+      {
+        "id": "item-wa-1",
+        "product": {
+          "id": "form-runner-01",
+          "name": "Form Runner 01",
+          "category": "Men's Sneakers",
+          "department": "Men",
+          "priceINR": 2499,
+          "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Olive Green",
+          "hex": "#626849"
+        },
+        "selectedSize": 8,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 2499,
+    "date": "13 Oct 2026, 09:30 AM",
+    "status": "Inquired",
+    "notes": "Customer requested size verification over WhatsApp before transferring funds."
+  },
+  {
+    "orderId": "SF-WA-8812",
+    "customerName": "Devendra Sharma",
+    "email": "devendra.s@outlook.com",
+    "phone": "+91 97112 45890",
+    "address": "B-12, Sector 44",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201301",
+    "paymentMethod": "UPI (Instant Transfer)",
+    "source": "WhatsApp Order",
+    "items": [
+      {
+        "id": "item-wa-2",
+        "product": {
+          "id": "everyday-court-low",
+          "name": "Everyday Court Low",
+          "category": "Men's Casual",
+          "department": "Men",
+          "priceINR": 3299,
+          "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Muted Olive",
+          "hex": "#585D46"
+        },
+        "selectedSize": 10,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 3299,
+    "date": "12 Oct 2026, 04:15 PM",
+    "status": "Confirmed",
+    "notes": "Payment verified via UPI screenshot. Order queued for packing."
+  },
+  {
+    "orderId": "SF-96104",
+    "userId": "user-demo-1",
+    "customerName": "Alex Mercer",
+    "email": "member@soleform.com",
+    "phone": "+91 98765 43210",
+    "address": "Studio 3B, Design Collective, Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "paymentMethod": "Credit Card",
+    "source": "Online Checkout",
+    "items": [
+      {
+        "id": "item-prep-1",
+        "product": {
+          "id": "pace-trainer-lite",
+          "name": "Pace Trainer Lite",
+          "category": "Men's Running",
+          "department": "Men",
+          "priceINR": 2899,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Cloud White",
+          "hex": "#F5F3EF"
+        },
+        "selectedSize": 9,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 2899,
+    "date": "12 Oct 2026, 11:20 AM",
+    "status": "In Preparation",
+    "notes": "Boxed with eco-friendly canvas dust bag and greeting card."
+  },
+  {
+    "orderId": "SF-95430",
+    "customerName": "Rohan Deshmukh",
+    "email": "rohan.deshmukh@gmail.com",
+    "phone": "+91 99201 34912",
+    "address": "Flat 801, Sea Breeze Apartments, Bandra West",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "paymentMethod": "UPI (Instant Transfer)",
+    "source": "Online Checkout",
+    "items": [
+      {
+        "id": "item-ship-1",
+        "product": {
+          "id": "form-runner-01",
+          "name": "Form Runner 01",
+          "category": "Men's Sneakers",
+          "department": "Men",
+          "priceINR": 2499,
+          "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Sand Cream",
+          "hex": "#DDD2BC"
+        },
+        "selectedSize": 10,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 2499,
+    "date": "11 Oct 2026, 03:40 PM",
+    "status": "Shipped",
+    "courierName": "Blue Dart Express",
+    "trackingNumber": "BLD-948201948",
+    "notes": "Dispatched via air priority. Estimated arrival within 48h."
+  },
+  {
+    "orderId": "SF-94821",
+    "userId": "user-demo-1",
+    "customerName": "Alex Mercer",
+    "email": "member@soleform.com",
+    "phone": "+91 98765 43210",
+    "address": "Flat 402, Oakwood Residency, Koramangala 4th Block",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560034",
+    "paymentMethod": "UPI (Instant Transfer)",
+    "source": "Online Checkout",
+    "items": [
+      {
+        "id": "item-deliv-1",
+        "product": {
+          "id": "form-runner-01",
+          "name": "Form Runner 01",
+          "category": "Men's Sneakers",
+          "department": "Men",
+          "priceINR": 2499,
+          "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Olive Green",
+          "hex": "#626849"
+        },
+        "selectedSize": 9,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 2499,
+    "date": "08 Oct 2026, 02:45 PM",
+    "status": "Delivered",
+    "courierName": "Delhivery Express",
+    "trackingNumber": "DLV-882014902",
+    "notes": "Handed over to customer security at reception."
+  },
+  {
+    "orderId": "SF-91044",
+    "customerName": "Nandita Sen",
+    "email": "nandita.sen@yahoo.com",
+    "phone": "+91 98301 77210",
+    "address": "14/2, Ballygunge Circular Road",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700019",
+    "paymentMethod": "Net Banking",
+    "source": "Online Checkout",
+    "items": [
+      {
+        "id": "item-deliv-2",
+        "product": {
+          "id": "everyday-court-low",
+          "name": "Everyday Court Low",
+          "category": "Men's Casual",
+          "department": "Men",
+          "priceINR": 3299,
+          "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Muted Olive",
+          "hex": "#585D46"
+        },
+        "selectedSize": 8,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 3299,
+    "date": "28 Sep 2026, 11:20 AM",
+    "status": "Delivered",
+    "courierName": "Blue Dart Express",
+    "trackingNumber": "BLD-771092841",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "orderId": "SF-89210",
+    "customerName": "Suresh Raina",
+    "email": "suresh.raina@gmail.com",
+    "phone": "+91 94120 88291",
+    "address": "Plot 19, Civil Lines",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "pincode": "302006",
+    "paymentMethod": "Cash on Delivery",
+    "source": "Online Checkout",
+    "items": [
+      {
+        "id": "item-cancel-1",
+        "product": {
+          "id": "pace-trainer-lite",
+          "name": "Pace Trainer Lite",
+          "category": "Men's Running",
+          "department": "Men",
+          "priceINR": 2899,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=85"
+        },
+        "selectedColor": {
+          "name": "Cloud White",
+          "hex": "#F5F3EF"
+        },
+        "selectedSize": 11,
+        "quantity": 1
+      }
+    ],
+    "totalINR": 2899,
+    "date": "20 Sep 2026, 05:10 PM",
+    "status": "Cancelled",
+    "notes": "Customer requested order cancellation prior to dispatch."
+  }
+]
